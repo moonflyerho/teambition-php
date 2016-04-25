@@ -9,5 +9,5 @@ Get the Client Key & Client Secret from [https://account.teambition.com/my/apps]
 
 and then edit config.php
 
-	$appKey = '';
-	$appSecret = '';
+	$appKey = 'Client Key here';
+	$appSecret = 'Client Secret here';
